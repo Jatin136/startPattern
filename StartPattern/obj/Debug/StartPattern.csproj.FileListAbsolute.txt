@@ -1,0 +1,7 @@
+C:\Projects\personal\Csharp\StartPattern\StartPattern\bin\Debug\StartPattern.exe.config
+C:\Projects\personal\Csharp\StartPattern\StartPattern\bin\Debug\StartPattern.exe
+C:\Projects\personal\Csharp\StartPattern\StartPattern\bin\Debug\StartPattern.pdb
+C:\Projects\personal\Csharp\StartPattern\StartPattern\obj\Debug\StartPattern.csprojAssemblyReference.cache
+C:\Projects\personal\Csharp\StartPattern\StartPattern\obj\Debug\StartPattern.csproj.CoreCompileInputs.cache
+C:\Projects\personal\Csharp\StartPattern\StartPattern\obj\Debug\StartPattern.exe
+C:\Projects\personal\Csharp\StartPattern\StartPattern\obj\Debug\StartPattern.pdb
