@@ -1,0 +1,2 @@
+# startPattern
+pattern star diamond
